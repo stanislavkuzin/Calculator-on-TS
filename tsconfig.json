@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", 
+    "module": "System", 
+    "esModuleInterop": true,            
+    "forceConsistentCasingInFileNames": true, 
+    "strict": true,              
+    "skipLibCheck": true, 
+    "outFile": "JS/main.js",
+    "removeComments": true,
+    "watch": true
+  },
+  "include": ["TS/**/*"],
+  "exclude": ["node_modules"]
+}
